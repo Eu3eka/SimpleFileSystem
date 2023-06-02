@@ -1,2 +1,2 @@
 # SimpleFileSystem
-A unfinished demo
+An unfinished demo, coded in C.
